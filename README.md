@@ -5,6 +5,10 @@ Here you will find free-to-use .csv files of past osu!taiko California user data
 All user data is taken from the public osu! API. 
 Usernames are collected from [osu! World](https://osuworld.octo.moe/) and any other relevant data on osu!, such as team data or user profiles.
 
+## Download
+
+**https://drive.google.com/drive/folders/1GoyK6zKBijLN0w4HDsOg8FuFCK2YY6Xm?usp=sharing**
+
 ## If using with SQLite
 
 Use the following schema:
